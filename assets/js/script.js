@@ -77,7 +77,7 @@ var createEvent = function() {
     }
 
 }
-createEvent();
+// createEvent();
 //assign times to each event div event 
 
 // compare the div hour to the current hour 
